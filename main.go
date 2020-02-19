@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/fsufitch/sample-go-app/server"
+	"github.com/fsufitch/sample-go-app-v2/server"
 	"github.com/urfave/cli"
 )
 
